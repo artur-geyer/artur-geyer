@@ -9,8 +9,7 @@ Aspiring Software Developer
 *   🧠  I'm learning x86 architecture & C++
 *   🤝  I'm open to collaborating on anything I find interesting
 *   ⚡  I'm not a woman, don't be fooled so easily
-<a href="https://www.github.com/artur-geyer" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/artur-geyer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/artur-geyer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/artur-geyer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Socials
                   
